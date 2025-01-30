@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.pratham_app.Trade;
-import com.example.pratham_app.TradeService;
+import com.example.pratham_app.model.Trade;;
+import com.example.pratham_app.service.TradeService;
 
 @RestController
 @RequestMapping("/trades")
