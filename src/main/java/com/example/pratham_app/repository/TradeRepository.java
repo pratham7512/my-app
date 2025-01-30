@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.infosys.bond_tracking.model.Trade;
+import com.example.pratham_app.model.Trade;
 
 public interface TradeRepository extends JpaRepository<Trade, Long>{
 	List<Trade> findByStatus(String status);
