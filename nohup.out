@@ -274,3 +274,8 @@ Identify and stop the process that's listening on port 8080 or configure this ap
 2025-01-30T07:46:06.763Z  INFO 13842 --- [demo] [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
 2025-01-30T07:46:06.764Z  INFO 13842 --- [demo] [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2025-01-30T07:46:06.765Z  INFO 13842 --- [demo] [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-30T09:20:13.313Z  WARN 13842 --- [demo] [nio-8080-exec-5] o.s.b.a.w.s.WelcomePageHandlerMapping    : Received invalid Accept header. Assuming all media types are accepted
+2025-01-30T09:23:23.702Z  WARN 13842 --- [demo] [nio-8080-exec-8] o.s.b.a.w.s.WelcomePageHandlerMapping    : Received invalid Accept header. Assuming all media types are accepted
+2025-01-30T09:27:48.905Z  WARN 13842 --- [demo] [nio-8080-exec-1] o.s.b.a.w.s.WelcomePageHandlerMapping    : Received invalid Accept header. Assuming all media types are accepted
+2025-01-30T09:31:00.861Z  WARN 13842 --- [demo] [nio-8080-exec-4] o.s.b.a.w.s.WelcomePageHandlerMapping    : Received invalid Accept header. Assuming all media types are accepted
+2025-01-30T09:34:42.125Z  WARN 13842 --- [demo] [nio-8080-exec-8] o.s.b.a.w.s.WelcomePageHandlerMapping    : Received invalid Accept header. Assuming all media types are accepted
