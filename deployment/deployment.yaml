@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp-service
-        image: curious09/my-app:1.0
+        image: curious09/my-app:2.0
         imagePullPolicy: Always
         ports:
           - containerPort: 8080
