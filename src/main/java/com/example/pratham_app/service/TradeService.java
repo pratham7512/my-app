@@ -6,8 +6,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.infosys.bond_tracking.model.Trade;
-import com.infosys.bond_tracking.repository.TradeRepository;
+import com.example.pratham_app.model.Trade;
+import com.example.pratham_app.repository.TradeRepository;
 
 @Service
 public class TradeService {
