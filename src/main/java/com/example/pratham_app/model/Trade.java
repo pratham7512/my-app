@@ -1,4 +1,4 @@
-package com.infosys.bond_tracking.model;
+package com.example.pratham_app.model;
 
 import java.time.LocalDate;
 
